@@ -1,2 +1,2 @@
 # Alpaca-image-generator-
-My first repository on GIthub
+My first repository on github
